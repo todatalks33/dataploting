@@ -1,7 +1,7 @@
 'use client'
 import GoogleChartExample from './components/Chart'
 
-
+//testing comment
 import React, { useEffect, useState } from "react";
 
 function SchoolGenderCounts() {
